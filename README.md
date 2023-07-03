@@ -25,3 +25,4 @@
 - LinkedIn: [LinkedIn 프로필 링크](LinkedIn 프로필 링크)
 
 감사합니다!
+[![GitHub 트로피](https://github-profile-trophy.vercel.app/?username=JongsoulPark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
