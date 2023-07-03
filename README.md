@@ -3,8 +3,8 @@
 저는 JongsoulPark입니다. 개발자로서 주로 웹 애플리케이션 개발에 관심과 경험이 있습니다. 주로 사용하는 기술 스택은 다음과 같습니다:
 
 - 프론트엔드: HTML, CSS, JavaScript, React
-- 백엔드: Node.js, Express
-- 데이터베이스: MySQL, MongoDB
+- 백엔드: Java, Spring framework
+- 데이터베이스: MySQL, MongoDB, postgresql
 
 ## 프로젝트
 
