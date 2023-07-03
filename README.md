@@ -27,10 +27,14 @@
 감사합니다!
 
 
-
-
-![GitHub 스탯](https://github-readme-stats.vercel.app/api?username=JongsoulPark&show_icons=true)
-[![GitHub 트로피](https://github-profile-trophy.vercel.app/?username=JongsoulPark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&labelColor=blue)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&labelColor=orange)
+![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&logoColor=white&labelColor=brightgreen)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
+
+![GitHub 스탯](https://github-readme-stats.vercel.app/api?username=JongsoulPark&show_icons=true)
+
+[![GitHub 트로피](https://github-profile-trophy.vercel.app/?username=JongsoulPark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
